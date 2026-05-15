@@ -1,0 +1,1004 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E42FDF872FB6F6B70069DAC6 /* FlightTrack Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = E42FDF862FB6F6B70069DAC6 /* FlightTrack Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E42FDF712FB6F6B70069DAC6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E42FDF5B2FB6F6B60069DAC6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E42FDF622FB6F6B60069DAC6;
+			remoteInfo = FlightTrack;
+		};
+		E42FDF7B2FB6F6B70069DAC6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E42FDF5B2FB6F6B60069DAC6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E42FDF622FB6F6B60069DAC6;
+			remoteInfo = FlightTrack;
+		};
+		E42FDF882FB6F6B70069DAC6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E42FDF5B2FB6F6B60069DAC6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E42FDF852FB6F6B70069DAC6;
+			remoteInfo = "FlightTrack Watch App";
+		};
+		E42FDF962FB6F6B80069DAC6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E42FDF5B2FB6F6B60069DAC6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E42FDF852FB6F6B70069DAC6;
+			remoteInfo = "FlightTrack Watch App";
+		};
+		E42FDFA02FB6F6B80069DAC6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E42FDF5B2FB6F6B60069DAC6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E42FDF852FB6F6B70069DAC6;
+			remoteInfo = "FlightTrack Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E42FDFAC2FB6F6B80069DAC6 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				E42FDF872FB6F6B70069DAC6 /* FlightTrack Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		E42FDF632FB6F6B60069DAC6 /* FlightTrack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlightTrack.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E42FDF702FB6F6B70069DAC6 /* FlightTrackTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlightTrackTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E42FDF7A2FB6F6B70069DAC6 /* FlightTrackUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlightTrackUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E42FDF862FB6F6B70069DAC6 /* FlightTrack Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FlightTrack Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E42FDF952FB6F6B80069DAC6 /* FlightTrack Watch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FlightTrack Watch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E42FDF9F2FB6F6B80069DAC6 /* FlightTrack Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FlightTrack Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		E42FDF652FB6F6B60069DAC6 /* FlightTrack */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FlightTrack;
+			sourceTree = "<group>";
+		};
+		E42FDF732FB6F6B70069DAC6 /* FlightTrackTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FlightTrackTests;
+			sourceTree = "<group>";
+		};
+		E42FDF7D2FB6F6B70069DAC6 /* FlightTrackUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FlightTrackUITests;
+			sourceTree = "<group>";
+		};
+		E42FDF8A2FB6F6B70069DAC6 /* FlightTrack Watch App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "FlightTrack Watch App";
+			sourceTree = "<group>";
+		};
+		E42FDF982FB6F6B80069DAC6 /* FlightTrack Watch AppTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "FlightTrack Watch AppTests";
+			sourceTree = "<group>";
+		};
+		E42FDFA22FB6F6B80069DAC6 /* FlightTrack Watch AppUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "FlightTrack Watch AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E42FDF602FB6F6B60069DAC6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF6D2FB6F6B70069DAC6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF772FB6F6B70069DAC6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF832FB6F6B70069DAC6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF922FB6F6B80069DAC6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF9C2FB6F6B80069DAC6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E42FDF5A2FB6F6B60069DAC6 = {
+			isa = PBXGroup;
+			children = (
+				E42FDF652FB6F6B60069DAC6 /* FlightTrack */,
+				E42FDF732FB6F6B70069DAC6 /* FlightTrackTests */,
+				E42FDF7D2FB6F6B70069DAC6 /* FlightTrackUITests */,
+				E42FDF8A2FB6F6B70069DAC6 /* FlightTrack Watch App */,
+				E42FDF982FB6F6B80069DAC6 /* FlightTrack Watch AppTests */,
+				E42FDFA22FB6F6B80069DAC6 /* FlightTrack Watch AppUITests */,
+				E42FDF642FB6F6B60069DAC6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E42FDF642FB6F6B60069DAC6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E42FDF632FB6F6B60069DAC6 /* FlightTrack.app */,
+				E42FDF702FB6F6B70069DAC6 /* FlightTrackTests.xctest */,
+				E42FDF7A2FB6F6B70069DAC6 /* FlightTrackUITests.xctest */,
+				E42FDF862FB6F6B70069DAC6 /* FlightTrack Watch App.app */,
+				E42FDF952FB6F6B80069DAC6 /* FlightTrack Watch AppTests.xctest */,
+				E42FDF9F2FB6F6B80069DAC6 /* FlightTrack Watch AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E42FDF622FB6F6B60069DAC6 /* FlightTrack */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E42FDFAD2FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrack" */;
+			buildPhases = (
+				E42FDF5F2FB6F6B60069DAC6 /* Sources */,
+				E42FDF602FB6F6B60069DAC6 /* Frameworks */,
+				E42FDF612FB6F6B60069DAC6 /* Resources */,
+				E42FDFAC2FB6F6B80069DAC6 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E42FDF892FB6F6B70069DAC6 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E42FDF652FB6F6B60069DAC6 /* FlightTrack */,
+			);
+			name = FlightTrack;
+			packageProductDependencies = (
+			);
+			productName = FlightTrack;
+			productReference = E42FDF632FB6F6B60069DAC6 /* FlightTrack.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E42FDF6F2FB6F6B70069DAC6 /* FlightTrackTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E42FDFB02FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrackTests" */;
+			buildPhases = (
+				E42FDF6C2FB6F6B70069DAC6 /* Sources */,
+				E42FDF6D2FB6F6B70069DAC6 /* Frameworks */,
+				E42FDF6E2FB6F6B70069DAC6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E42FDF722FB6F6B70069DAC6 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E42FDF732FB6F6B70069DAC6 /* FlightTrackTests */,
+			);
+			name = FlightTrackTests;
+			packageProductDependencies = (
+			);
+			productName = FlightTrackTests;
+			productReference = E42FDF702FB6F6B70069DAC6 /* FlightTrackTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E42FDF792FB6F6B70069DAC6 /* FlightTrackUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E42FDFB32FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrackUITests" */;
+			buildPhases = (
+				E42FDF762FB6F6B70069DAC6 /* Sources */,
+				E42FDF772FB6F6B70069DAC6 /* Frameworks */,
+				E42FDF782FB6F6B70069DAC6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E42FDF7C2FB6F6B70069DAC6 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E42FDF7D2FB6F6B70069DAC6 /* FlightTrackUITests */,
+			);
+			name = FlightTrackUITests;
+			packageProductDependencies = (
+			);
+			productName = FlightTrackUITests;
+			productReference = E42FDF7A2FB6F6B70069DAC6 /* FlightTrackUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		E42FDF852FB6F6B70069DAC6 /* FlightTrack Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E42FDFA92FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrack Watch App" */;
+			buildPhases = (
+				E42FDF822FB6F6B70069DAC6 /* Sources */,
+				E42FDF832FB6F6B70069DAC6 /* Frameworks */,
+				E42FDF842FB6F6B70069DAC6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				E42FDF8A2FB6F6B70069DAC6 /* FlightTrack Watch App */,
+			);
+			name = "FlightTrack Watch App";
+			packageProductDependencies = (
+			);
+			productName = "FlightTrack Watch App";
+			productReference = E42FDF862FB6F6B70069DAC6 /* FlightTrack Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E42FDF942FB6F6B80069DAC6 /* FlightTrack Watch AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E42FDFB62FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrack Watch AppTests" */;
+			buildPhases = (
+				E42FDF912FB6F6B80069DAC6 /* Sources */,
+				E42FDF922FB6F6B80069DAC6 /* Frameworks */,
+				E42FDF932FB6F6B80069DAC6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E42FDF972FB6F6B80069DAC6 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E42FDF982FB6F6B80069DAC6 /* FlightTrack Watch AppTests */,
+			);
+			name = "FlightTrack Watch AppTests";
+			packageProductDependencies = (
+			);
+			productName = "FlightTrack Watch AppTests";
+			productReference = E42FDF952FB6F6B80069DAC6 /* FlightTrack Watch AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E42FDF9E2FB6F6B80069DAC6 /* FlightTrack Watch AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E42FDFB92FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrack Watch AppUITests" */;
+			buildPhases = (
+				E42FDF9B2FB6F6B80069DAC6 /* Sources */,
+				E42FDF9C2FB6F6B80069DAC6 /* Frameworks */,
+				E42FDF9D2FB6F6B80069DAC6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E42FDFA12FB6F6B80069DAC6 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E42FDFA22FB6F6B80069DAC6 /* FlightTrack Watch AppUITests */,
+			);
+			name = "FlightTrack Watch AppUITests";
+			packageProductDependencies = (
+			);
+			productName = "FlightTrack Watch AppUITests";
+			productReference = E42FDF9F2FB6F6B80069DAC6 /* FlightTrack Watch AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E42FDF5B2FB6F6B60069DAC6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2620;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					E42FDF622FB6F6B60069DAC6 = {
+						CreatedOnToolsVersion = 26.2;
+					};
+					E42FDF6F2FB6F6B70069DAC6 = {
+						CreatedOnToolsVersion = 26.2;
+						TestTargetID = E42FDF622FB6F6B60069DAC6;
+					};
+					E42FDF792FB6F6B70069DAC6 = {
+						CreatedOnToolsVersion = 26.2;
+						TestTargetID = E42FDF622FB6F6B60069DAC6;
+					};
+					E42FDF852FB6F6B70069DAC6 = {
+						CreatedOnToolsVersion = 26.2;
+					};
+					E42FDF942FB6F6B80069DAC6 = {
+						CreatedOnToolsVersion = 26.2;
+						TestTargetID = E42FDF852FB6F6B70069DAC6;
+					};
+					E42FDF9E2FB6F6B80069DAC6 = {
+						CreatedOnToolsVersion = 26.2;
+						TestTargetID = E42FDF852FB6F6B70069DAC6;
+					};
+				};
+			};
+			buildConfigurationList = E42FDF5E2FB6F6B60069DAC6 /* Build configuration list for PBXProject "FlightTrack" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E42FDF5A2FB6F6B60069DAC6;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = E42FDF642FB6F6B60069DAC6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E42FDF622FB6F6B60069DAC6 /* FlightTrack */,
+				E42FDF6F2FB6F6B70069DAC6 /* FlightTrackTests */,
+				E42FDF792FB6F6B70069DAC6 /* FlightTrackUITests */,
+				E42FDF852FB6F6B70069DAC6 /* FlightTrack Watch App */,
+				E42FDF942FB6F6B80069DAC6 /* FlightTrack Watch AppTests */,
+				E42FDF9E2FB6F6B80069DAC6 /* FlightTrack Watch AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E42FDF612FB6F6B60069DAC6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF6E2FB6F6B70069DAC6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF782FB6F6B70069DAC6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF842FB6F6B70069DAC6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF932FB6F6B80069DAC6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF9D2FB6F6B80069DAC6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E42FDF5F2FB6F6B60069DAC6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF6C2FB6F6B70069DAC6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF762FB6F6B70069DAC6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF822FB6F6B70069DAC6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF912FB6F6B80069DAC6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E42FDF9B2FB6F6B80069DAC6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E42FDF722FB6F6B70069DAC6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E42FDF622FB6F6B60069DAC6 /* FlightTrack */;
+			targetProxy = E42FDF712FB6F6B70069DAC6 /* PBXContainerItemProxy */;
+		};
+		E42FDF7C2FB6F6B70069DAC6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E42FDF622FB6F6B60069DAC6 /* FlightTrack */;
+			targetProxy = E42FDF7B2FB6F6B70069DAC6 /* PBXContainerItemProxy */;
+		};
+		E42FDF892FB6F6B70069DAC6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E42FDF852FB6F6B70069DAC6 /* FlightTrack Watch App */;
+			targetProxy = E42FDF882FB6F6B70069DAC6 /* PBXContainerItemProxy */;
+		};
+		E42FDF972FB6F6B80069DAC6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E42FDF852FB6F6B70069DAC6 /* FlightTrack Watch App */;
+			targetProxy = E42FDF962FB6F6B80069DAC6 /* PBXContainerItemProxy */;
+		};
+		E42FDFA12FB6F6B80069DAC6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E42FDF852FB6F6B70069DAC6 /* FlightTrack Watch App */;
+			targetProxy = E42FDFA02FB6F6B80069DAC6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E42FDFA72FB6F6B80069DAC6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E42FDFA82FB6F6B80069DAC6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		E42FDFAA2FB6F6B80069DAC6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FlightTrack;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = ishan.FlightTrack;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ishan.FlightTrack.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 26.2;
+			};
+			name = Debug;
+		};
+		E42FDFAB2FB6F6B80069DAC6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FlightTrack;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = ishan.FlightTrack;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ishan.FlightTrack.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 26.2;
+			};
+			name = Release;
+		};
+		E42FDFAE2FB6F6B80069DAC6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FlightTrack;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ishan.FlightTrack;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E42FDFAF2FB6F6B80069DAC6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FlightTrack;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ishan.FlightTrack;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E42FDFB12FB6F6B80069DAC6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ishan.FlightTrackTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlightTrack.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlightTrack";
+			};
+			name = Debug;
+		};
+		E42FDFB22FB6F6B80069DAC6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ishan.FlightTrackTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlightTrack.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlightTrack";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E42FDFB42FB6F6B80069DAC6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ishan.FlightTrackUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FlightTrack;
+			};
+			name = Debug;
+		};
+		E42FDFB52FB6F6B80069DAC6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ishan.FlightTrackUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FlightTrack;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E42FDFB72FB6F6B80069DAC6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ishan.FlightTrack-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlightTrack Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlightTrack Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 26.2;
+			};
+			name = Debug;
+		};
+		E42FDFB82FB6F6B80069DAC6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ishan.FlightTrack-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlightTrack Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlightTrack Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 26.2;
+			};
+			name = Release;
+		};
+		E42FDFBA2FB6F6B80069DAC6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ishan.FlightTrack-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "FlightTrack Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 26.2;
+			};
+			name = Debug;
+		};
+		E42FDFBB2FB6F6B80069DAC6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 93QKF2F77T;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ishan.FlightTrack-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "FlightTrack Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 26.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E42FDF5E2FB6F6B60069DAC6 /* Build configuration list for PBXProject "FlightTrack" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E42FDFA72FB6F6B80069DAC6 /* Debug */,
+				E42FDFA82FB6F6B80069DAC6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E42FDFA92FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrack Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E42FDFAA2FB6F6B80069DAC6 /* Debug */,
+				E42FDFAB2FB6F6B80069DAC6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E42FDFAD2FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrack" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E42FDFAE2FB6F6B80069DAC6 /* Debug */,
+				E42FDFAF2FB6F6B80069DAC6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E42FDFB02FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrackTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E42FDFB12FB6F6B80069DAC6 /* Debug */,
+				E42FDFB22FB6F6B80069DAC6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E42FDFB32FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrackUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E42FDFB42FB6F6B80069DAC6 /* Debug */,
+				E42FDFB52FB6F6B80069DAC6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E42FDFB62FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrack Watch AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E42FDFB72FB6F6B80069DAC6 /* Debug */,
+				E42FDFB82FB6F6B80069DAC6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E42FDFB92FB6F6B80069DAC6 /* Build configuration list for PBXNativeTarget "FlightTrack Watch AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E42FDFBA2FB6F6B80069DAC6 /* Debug */,
+				E42FDFBB2FB6F6B80069DAC6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E42FDF5B2FB6F6B60069DAC6 /* Project object */;
+}
