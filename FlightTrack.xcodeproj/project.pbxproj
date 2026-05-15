@@ -621,6 +621,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = FlightTrack;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "FlightTrack uses your location to show your position on the map and calculate ETA to your destination.";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = ishan.FlightTrack;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -654,6 +655,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = FlightTrack;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "FlightTrack uses your location to show your position on the map and calculate ETA to your destination.";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = ishan.FlightTrack;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -688,6 +690,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = FlightTrack;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "FlightTrack uses your location to show your position on the map and calculate estimated arrival time during flights.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -723,6 +726,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = FlightTrack;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "FlightTrack uses your location to show your position on the map and calculate estimated arrival time during flights.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

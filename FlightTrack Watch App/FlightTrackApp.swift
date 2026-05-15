@@ -1,17 +1,14 @@
-//
-//  FlightTrackApp.swift
-//  FlightTrack Watch App
-//
-//  Created by Ishan Gupta on 15/05/26.
-//
-
 import SwiftUI
 
 @main
 struct FlightTrack_Watch_AppApp: App {
+
+    @State private var viewModel = WatchFlightViewModel()
+
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(viewModel)
         }
     }
 }
